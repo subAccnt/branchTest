@@ -4,5 +4,5 @@ class test {
     "user2 change commit"
     "user2 second commit"
     "user1 second commit"
-    "user1 second commit 수정"
+    "user1 second commit 수정 완료"
 }
